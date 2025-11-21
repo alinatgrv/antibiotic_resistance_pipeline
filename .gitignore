@@ -1,0 +1,30 @@
+# Raw FASTQ files
+raw_data/*.fastq.gz
+
+# Reference genome
+raw_data/*.fna
+raw_data/*.gff
+raw_data/*.gbff
+raw_data/*.gbk
+
+# Trimmed reads
+trimmed/*.fq.gz
+
+# Alignment files
+alignment/*.sam
+alignment/*.bam
+alignment/*.bai
+
+# FastQC outputs
+fastqc_raw/*.html
+fastqc_trimmed/*.html
+
+# Variant calling outputs
+variants/*.vcf
+variants/*.tsv
+
+# Logs
+*.log
+
+# macOS junk
+.DS_Store
