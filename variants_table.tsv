@@ -1,0 +1,62 @@
+CHROM	POS	REF	ALT	Gene	Effect	Impact	AA_change
+NC_000913.3	93043	C	G	ftsI	missense_variant	MODERATE	p.Ala544Gly
+NC_000913.3	93043	C	G	murE	upstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	murF	upstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	mraY	upstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	murD	upstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	cra	downstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	mraZ	downstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	rsmH	downstream_gene_variant	MODIFIER	
+NC_000913.3	93043	C	G	ftsL	downstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	acrB	missense_variant	MODERATE	p.Gln569Leu
+NC_000913.3	482698	T	A	pdeB	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	ylaC	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	maa	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	hha	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	tomB	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	acrR	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	mscK	upstream_gene_variant	MODIFIER	
+NC_000913.3	482698	T	A	acrA	downstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	glnH	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	dps	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	rhtA	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	opgE	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	mntR	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	ybiR	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	ybiT	upstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	yliM	downstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	ompX	downstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	mntS	downstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	ldtB	downstream_gene_variant	MODIFIER	
+NC_000913.3	852762	A	G	rybA	intragenic_variant	MODIFIER	
+NC_000913.3	1905761	G	A	mntP	missense_variant	MODERATE	p.Gly25Asp
+NC_000913.3	1905761	G	A	yoaE	upstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	yoaL	upstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	yobH	upstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	yebQ	upstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	manX	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	manY	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	manZ	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	yobD	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	rlmA	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	cspC	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	yobF	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	yebO	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	mgrB	downstream_gene_variant	MODIFIER	
+NC_000913.3	1905761	G	A	kdgR	downstream_gene_variant	MODIFIER	
+NC_000913.3	3535147	A	C	envZ	missense_variant	MODERATE	p.Val241Gly
+NC_000913.3	3535147	A	C	yhgE	upstream_gene_variant	MODIFIER	
+NC_000913.3	3535147	A	C	greB	upstream_gene_variant	MODIFIER	
+NC_000913.3	3535147	A	C	yhgF	upstream_gene_variant	MODIFIER	
+NC_000913.3	3535147	A	C	hslO	downstream_gene_variant	MODIFIER	
+NC_000913.3	3535147	A	C	pck	downstream_gene_variant	MODIFIER	
+NC_000913.3	3535147	A	C	ompR	downstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	rsgA	synonymous_variant	LOW	p.Ala252Ala
+NC_000913.3	4390754	G	T	mscM	upstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	psd	upstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	orn	upstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	yjeV	upstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	nnr	upstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	tsaE	upstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	yjeO	downstream_gene_variant	MODIFIER	
+NC_000913.3	4390754	G	T	queG	downstream_gene_variant	MODIFIER	
