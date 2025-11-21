@@ -15,10 +15,6 @@ alignment/*.sam
 alignment/*.bam
 alignment/*.bai
 
-# FastQC outputs
-fastqc_raw/*.html
-fastqc_trimmed/*.html
-
 # Variant calling outputs
 variants/*.vcf
 variants/*.tsv
