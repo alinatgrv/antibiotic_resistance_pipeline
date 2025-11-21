@@ -11,15 +11,17 @@ Author: Alina Tagirova
 
 ## 📁 Структура репозитория
 
+```bash
 antibiotic_resistance_pipeline/
 │
-├── fastqc_raw/ # FastQC отчёты для сырых данных
-├── fastqc_trimmed/ # FastQC отчёты после trimming
-├── variants_table.tsv # Таблица аннотированных SNP
-├── lab_report.md # Подробный отчёт с полным пайплайном
-├── snpEff.config # Конфигурация для базы данных snpEff
-├── README.md # Короткое описание проекта
-└── .gitignore
+├── fastqc_raw/            # FastQC отчёты для сырых данных
+├── fastqc_trimmed/        # FastQC отчёты после trimming
+├── variants_table.tsv     # Таблица аннотированных SNP
+├── lab_report.md          # Подробный отчёт с полным пайплайном
+├── snpEff.config          # Конфигурация для базы данных SnpEff
+├── README.md              # Короткое описание проекта
+└── .gitignore             # Файл исключений Git
+```
 
 ---
 
